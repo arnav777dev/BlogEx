@@ -12,7 +12,18 @@ BlogEx is a Flutter application that allows users to explore a curated list of b
 ![Screenshot_20231004-225747](https://github.com/arnav777dev/BlogEx/assets/98037912/2dc240f7-627c-43fa-8573-aa762ee45d86)
 ![Screenshot_20231004-225710](https://github.com/arnav777dev/BlogEx/assets/98037912/d1ab2e31-532d-4105-a8e6-9b08eab321ec)
 ![Screenshot_20231004-225658](https://github.com/arnav777dev/BlogEx/assets/98037912/3856fd0b-5e24-46e3-9860-88664767f0a1)
-<img src="Screenshot_20231004-225648.jpg" alt="Screenshot" width="300" height="500">
+<!-- Replace 'screenshot.png' with the actual file name of your screenshot and adjust the width as needed -->
+<img src="assets/98037912/87e981dc-9798-4e1a-b47f-5dfe0529f677.png" alt="Screenshot" width="300">
+<img src="assets/98037912/f54bd289-83dc-446c-ad5d-2cadf286402f.png" alt="Screenshot" width="300">
+<img src="assets/98037912/45244a1c-e4fc-4e16-ac14-d6c975ee74ee.png" alt="Screenshot" width="300">
+<img src="assets/98037912/4b74f508-5afd-49b2-9d92-84fc593a95f0.png" alt="Screenshot" width="300">
+<img src="assets/98037912/6d22d33d-78c9-4109-833b-3ea8578dfca2.png" alt="Screenshot" width="300">
+<img src="assets/98037912/676a6257-1909-4a47-9755-e4c89d146624.png" alt="Screenshot" width="300">
+<img src="assets/98037912/2dc240f7-627c-43fa-8573-aa762ee45d86.png" alt="Screenshot" width="300">
+<img src="assets/98037912/d1ab2e31-532d-4105-a8e6-9b08eab321ec.png" alt="Screenshot" width="300">
+<img src="assets/98037912/3856fd0b-5e24-46e3-9860-88664767f0a1.png" alt="Screenshot" width="300">
+<!-- Add similar lines for other screenshots -->
+
 
 ## Features
 
