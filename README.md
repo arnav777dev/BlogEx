@@ -3,6 +3,14 @@
 BlogEx is a Flutter application that allows users to explore a curated list of blogs, view their details, and mark their favorite blogs. This README provides an overview of the app's features and functionality.
 ## Here are some screenshots
 <img src="https://imgur.com/Ip4gI1x" alt="Screenshot 1" width="300">
+<img src="[https://imgur.com/Ip4gI1x](https://imgur.com/yGAzlQe)" alt="Screenshot 2" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 3" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 4" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 5" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 6" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 7" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 8" width="300">
+<img src="https://imgur.com/Ip4gI1x" alt="Screenshot 9" width="300">
 
 
 ## Features
