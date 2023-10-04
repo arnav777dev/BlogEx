@@ -12,7 +12,7 @@ BlogEx is a Flutter application that allows users to explore a curated list of b
 ![Screenshot_20231004-225747](https://github.com/arnav777dev/BlogEx/assets/98037912/2dc240f7-627c-43fa-8573-aa762ee45d86)
 ![Screenshot_20231004-225710](https://github.com/arnav777dev/BlogEx/assets/98037912/d1ab2e31-532d-4105-a8e6-9b08eab321ec)
 ![Screenshot_20231004-225658](https://github.com/arnav777dev/BlogEx/assets/98037912/3856fd0b-5e24-46e3-9860-88664767f0a1)
-
+<img src="Screenshot_20231004-225648.jpg" alt="Screenshot" width="300" height="500">
 
 ## Features
 
