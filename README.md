@@ -2,7 +2,17 @@
 
 BlogEx is a Flutter application that allows users to explore a curated list of blogs, view their details, and mark their favorite blogs. This README provides an overview of the app's features and functionality.
 ## Here are some screenshots
-<a href="https://imgur.com/o0krHPu"><img src="https://i.imgur.com/o0krHPu.jpg" title="source: imgur.com" /></a>
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/f888299e-62da-49e4-8856-30c32f5d3365" alt="Screenshot 1" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/c2511cda-4b91-44d2-bc18-43807738df24" alt="Screenshot 2" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/e00f0768-effd-44c6-bf9d-f3cb38de91cb" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/c8620e7e-27d2-4c3d-ad70-520db1be60f5" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/7b04be1d-c579-4f5c-9bfa-a16b4aa746ab" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/653a188c-f317-4762-8238-59b8b1233cf2" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/1f3cfb3f-5960-4be3-9496-3dd063e3d991" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/55d9b4e5-fefc-4ff7-a70f-7bd26e5bc796" alt="Screenshot 3" width="300">
+<img src="https://github.com/arnav777dev/BlogEx/assets/98037912/9600bbd6-d2ad-4ee1-8400-852b235bd36c" alt="Screenshot 3" width="300">
+<!-- Repeat the above line for each image with its respective URL -->
+
 
 
 ## Features
