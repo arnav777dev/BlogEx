@@ -1,6 +1,18 @@
 # BlogEx Flutter App
 
 BlogEx is a Flutter application that allows users to explore a curated list of blogs, view their details, and mark their favorite blogs. This README provides an overview of the app's features and functionality.
+## Here are some screenshots
+
+![Screenshot_20231004-225648](https://github.com/arnav777dev/BlogEx/assets/98037912/87e981dc-9798-4e1a-b47f-5dfe0529f677)
+![Screenshot_20231004-225644](https://github.com/arnav777dev/BlogEx/assets/98037912/f54bd289-83dc-446c-ad5d-2cadf286402f)
+![Screenshot_20231004-225639](https://github.com/arnav777dev/BlogEx/assets/98037912/45244a1c-e4fc-4e16-ac14-d6c975ee74ee)
+![Screenshot_20231004-225632](https://github.com/arnav777dev/BlogEx/assets/98037912/4b74f508-5afd-49b2-9d92-84fc593a95f0)
+![Screenshot_20231004-225617](https://github.com/arnav777dev/BlogEx/assets/98037912/6d22d33d-78c9-4109-833b-3ea8578dfca2)
+![Screenshot_20231004-225803](https://github.com/arnav777dev/BlogEx/assets/98037912/676a6257-1909-4a47-9755-e4c89d146624)
+![Screenshot_20231004-225747](https://github.com/arnav777dev/BlogEx/assets/98037912/2dc240f7-627c-43fa-8573-aa762ee45d86)
+![Screenshot_20231004-225710](https://github.com/arnav777dev/BlogEx/assets/98037912/d1ab2e31-532d-4105-a8e6-9b08eab321ec)
+![Screenshot_20231004-225658](https://github.com/arnav777dev/BlogEx/assets/98037912/3856fd0b-5e24-46e3-9860-88664767f0a1)
+
 
 ## Features
 
